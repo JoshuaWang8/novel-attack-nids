@@ -28,9 +28,10 @@ The code in this repository requires the following dependencies:
 ## Repository Overview
 The repository is organized as follows:
 
+- `README.md`: This documentation file.
 - `/data`: Contains code for data feature extraction, sampling and preprocessing.
 - `/models`: Contains implementation of the binary classifier, multi-class classifier, and KNN sub-models, as well as the voting ensemble. `training.ipynb` gives examples of how to use the model.
-- `README.md`: This documentation file.
+- `/deliverables`: Contains the final report and slide deck used for the seminar presentation.
 
 ## Results
 
